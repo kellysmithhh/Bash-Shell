@@ -1,0 +1,10 @@
+Smith-Kelly-p3:
+total 44
+-rw-r--r--. 1 myid    58 Dec  4 11:05 file1.txt
+-rw-r--r--. 1 myid   107 Dec  4 11:05 input.txt
+-rw-r--r--. 1 myid   151 Dec  4 11:05 makefile
+-rw-r--r--. 1 myid   163 Dec  4 12:22 README.txt
+-rw-r--r--. 1 myid     0 Dec  4 14:03 rec30466
+-rwxr-xr-x. 1 myid 13544 Dec  4 12:19 shell
+-rw-r--r--. 1 myid  9667 Dec  4 12:19 shell.c
+/home/myid/kjs31537/Smith-Kelly-p3:/home/myid/csci-1730
